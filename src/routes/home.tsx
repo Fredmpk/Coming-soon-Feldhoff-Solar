@@ -51,7 +51,7 @@ export function Home() {
           <motion.img
             src="/FS-LOGO.png"
             alt="Feldhoff Solar - Photovoltaik und Energiesysteme"
-            className="w-auto h-auto justify-center "
+            className="w-auto h-auto justify-center px-5"
             variants={itemVariants}
           />
         </motion.div>
