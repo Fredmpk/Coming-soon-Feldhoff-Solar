@@ -56,7 +56,7 @@ export function Home() {
           />
         </motion.div>
         <motion.div className="mail flex flex-col variants={itemVariants} px-5 md:px-[38vw]">
-          <motion.div variants={itemVariants} className="flex flex-row gap-3">
+          <motion.div variants={itemVariants} className="flex flex-row gap-4">
             <FaPhoneAlt />
             <motion.a
               href="tel:+491623231807"
