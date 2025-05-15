@@ -1,0 +1,11 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('/fonts/raleway-v34-latin-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
